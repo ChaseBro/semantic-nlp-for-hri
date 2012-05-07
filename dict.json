@@ -1,0 +1,55 @@
+{
+"pick": "grab",
+"shove": "push",
+
+
+"on": "to",
+"inside": "in",
+"outside_of": "out",
+"inside_of": "in",
+
+
+"sphere": "ball",
+"circle": "ball",
+"block": "ball",
+"widget": "ball",
+"thing": "ball",
+"blob": "ball",
+
+
+"red": "c-red",
+"blue": "c-blue",
+"green": "c-green",
+"black": "c-bad",
+"brown": "c-bad",
+"gray": "c-bad",
+"orange": "c-bad",
+"pink": "c-bad",
+"purple": "c-bad",
+"white": "c-bad",
+"yellow": "c-bad",
+
+
+"big": "s-big",
+"large": "s-big",
+"huge": "s-big",
+"small": "s-small",
+"tiny": "s-small",
+"little": "s-small",
+
+
+"biggest": "f-biggest",
+"largest": "f-biggest",
+"hugest": "f-biggest",
+"smallest": "f-smallest",
+"tiniest": "f-smallest",
+"littlest": "f-smallest",
+
+"leftmost": "f-leftmost",
+"rightmost": "f-rightmost",
+
+"closest": "f-closest",
+"nearest": "f-closest",
+"farthest": "f-farthest",
+"furthest": "f-farthest"
+}
